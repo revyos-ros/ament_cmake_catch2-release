@@ -1,3 +1,26 @@
+## ament_cmake_catch2 (jazzy) - 1.5.0-1
+
+The packages in the `ament_cmake_catch2` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ament_cmake_catch2 --override-release-repository-push-url git@github.com:revyos-ros/ament_cmake_catch2-release.git` on `Fri, 14 Jun 2024 00:40:59 -0000`
+
+The `ament_cmake_catch2` package was released.
+
+Version of package(s) in repository `ament_cmake_catch2`:
+
+- upstream repository: https://github.com/open-rmf/ament_cmake_catch2.git
+- release repository: https://github.com/revyos-ros/ament_cmake_catch2-release.git
+- rosdistro version: `1.4.0-3`
+- old version: `1.4.0-3`
+- new version: `1.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_cmake_catch2 (iron) - 1.3.1-1
 
 The packages in the `ament_cmake_catch2` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron ament_cmake_catch2` on `Wed, 20 Dec 2023 13:51:45 -0000`
